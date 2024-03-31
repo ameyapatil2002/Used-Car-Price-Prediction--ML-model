@@ -8,7 +8,7 @@ Data Preprocessing: Data cleaning and feature engineering techniques are applied
 
 # Usage:-
 1) Clone the repository
-2) Run 'pip install -r requirements.txt' to install the required libraries.
+2) Run `pip install -r requirements.txt` to install the required libraries.
 3) Train the model using given test dataset.
 4) Run python app.py to execute.
 
