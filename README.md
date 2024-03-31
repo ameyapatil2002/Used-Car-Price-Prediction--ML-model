@@ -2,13 +2,13 @@ This project implements a system for predicting the price of used cars using the
 
 The system is designed to take in various features of a used car and predict its market value. 
 
-Key Features:-
+# Key Features:-
 Random Forest Regression: A robust machine learning algorithm known for handling complex relationships between features and the target variable (price).
 Data Preprocessing: Data cleaning and feature engineering techniques are applied to prepare the data for modeling.
 
-Usage:-
+# Usage:-
 1) Clone the repository
-2) Run pip install -r requirements.txt to install the required libraries.
+2) Run ("pip install -r requirements.txt") to install the required libraries.
 3) Train the model using given test dataset.
 4) Run python app.py to execute.
 
